@@ -1,4 +1,4 @@
-# Vue-Auction-Website
+# Vue3-Auction-Website
 
 ### Technologies used in this project
 **Frontend:**
