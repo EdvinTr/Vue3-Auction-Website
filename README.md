@@ -40,7 +40,11 @@
 ![image](https://user-images.githubusercontent.com/55061907/113516059-87afed80-9578-11eb-86c0-14068d60ceed.png)
 ![image](https://user-images.githubusercontent.com/55061907/113516125-eaa18480-9578-11eb-9e94-4d8b899085f3.png)
 ![image](https://user-images.githubusercontent.com/55061907/113516238-71eef800-9579-11eb-837a-3b6d0f97f32e.png)
+![image](https://user-images.githubusercontent.com/55061907/113516280-a5318700-9579-11eb-8254-d6a8827acf24.png)
+![image](https://user-images.githubusercontent.com/55061907/113516289-b8445700-9579-11eb-9f0a-c5c3996904da.png)
+![image](https://user-images.githubusercontent.com/55061907/113516292-baa6b100-9579-11eb-87d0-beed62a4bedc.png)
 
+Design credit for Inzamul Haq https://www.behance.net/blurweb13
 
 
 
