@@ -1,5 +1,7 @@
 # Vue3-Auction-Website
 
+#### All components are written in Vue 3 Composition API
+
 ### Technologies used in this project
 **Frontend:**
 * Vue 3
