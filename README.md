@@ -1,6 +1,6 @@
 # Vue-Auction-Website
 
-### Technologies used
+### Technologies used in this project
 **Frontend:**
 * Vue 3
 * vue-router
@@ -19,6 +19,13 @@
 * Spring mail
 * Spring validation
 * Lombok
+
+## How to install
+1. Open a terminal in client folder
+2. Run command "npm install"
+3. Run command "npm run dev"
+4. Project can be viewed at http://localhost:3000
+5. For backend connection you must set up a MySQL DB then run the server folders main file
 
 ### Replace with your credentials
 #### server/src/main/resources/application.properties
