@@ -33,3 +33,17 @@
 
 #### client/src/main.js
 ![image](https://user-images.githubusercontent.com/55061907/113515646-0c4d3c80-9576-11eb-972e-e529e57e91d9.png)
+
+
+# Images of the front page
+![image](https://user-images.githubusercontent.com/55061907/113516041-6e0ea600-9578-11eb-8fc1-3f37b52d7e4f.png)
+![image](https://user-images.githubusercontent.com/55061907/113516059-87afed80-9578-11eb-86c0-14068d60ceed.png)
+![image](https://user-images.githubusercontent.com/55061907/113516125-eaa18480-9578-11eb-9e94-4d8b899085f3.png)
+![image](https://user-images.githubusercontent.com/55061907/113516158-0ad14380-9579-11eb-88b7-b93c256af8d0.png)
+![image](https://user-images.githubusercontent.com/55061907/113516183-20df0400-9579-11eb-9700-d14908f02bfa.png)
+![image](https://user-images.githubusercontent.com/55061907/113516199-2f2d2000-9579-11eb-8727-250abb80c6e1.png)
+
+
+
+
+
